@@ -1,8 +1,9 @@
+//注释记得删除
 {
   "rewrites": [
     {
-      "source": "/api/:path*",
-      "destination": "https://159.75.107.160:8788/api/:path*"
+      "source": "/api/(.*)", //要匹配的路径前缀(我们本地访问的路径),结合自己的前缀设置
+      "destination": "proxy" //需要转发给哪一个目录下的配置
     }
   ]
 }
