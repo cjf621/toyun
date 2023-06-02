@@ -1,1 +1,0 @@
-import{d as a,g as t,a as r,ac as n}from"./to-0ff82d88.js";const s=a({name:"cl-avatar",props:{modelValue:String,src:String,icon:null,size:[String,Number],shape:String,fit:{type:String,default:"cover"}},setup(e){return()=>t("div",{class:"cl-avatar"},[t(r("el-avatar"),n({style:{height:e.size+"px",width:e.size+"px"}},{...e,src:e.modelValue||e.src}),null)])}});export{s as default};
