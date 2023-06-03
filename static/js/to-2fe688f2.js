@@ -1,0 +1,1 @@
+import{E as e}from"./to-15f62f4f.js";import{d as o,o as r,c as t}from"./to-dbebbab1.js";import"./to-4abe4e3d.js";import"./to-c27b6911.js";const a=o({name:"500"}),f=o({...a,setup(c){return(s,n)=>(r(),t(e,{code:500,desc:"糟糕，出了点问题"}))}});export{f as default};
