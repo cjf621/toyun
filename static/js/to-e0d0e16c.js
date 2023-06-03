@@ -1,1 +1,0 @@
-import{E as e}from"./to-b41ff475.js";import{d as o,o as r,c as t}from"./to-f1ccf9a4.js";import"./to-e32cf6d6.js";import"./to-c27b6911.js";const a=o({name:"502"}),f=o({...a,setup(c){return(s,n)=>(r(),t(e,{code:502,desc:"马上回来"}))}});export{f as default};

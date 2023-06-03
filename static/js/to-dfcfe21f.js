@@ -1,0 +1,1 @@
+import{E as e}from"./to-60989388.js";import{d as o,o as r,c as t}from"./to-bc85d7a1.js";import"./to-be912673.js";import"./to-c27b6911.js";const a=o({name:"404"}),f=o({...a,setup(c){return(s,n)=>(r(),t(e,{code:404,desc:"找不到您要查找的页面"}))}});export{f as default};
