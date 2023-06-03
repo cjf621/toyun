@@ -4,10 +4,6 @@
     {
       "source": "/api/(.*)", 
       "destination": "/api/proxy" 
-    },
-    {
-      "source": "/ws/:path*", 
-      "destination": "yunapi.72wo.cn/ws/:path*" 
     }
   ]
 }
