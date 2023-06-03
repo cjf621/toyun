@@ -1,1 +1,0 @@
-import{_ as t}from"./to-f38243fb.js";import{d as o,o as r,c as e}from"./to-bc85d7a1.js";import"./to-be912673.js";import"./to-e6870a8d.js";import"./to-9ec66fa5.js";import"./to-862de5a8.js";import"./to-c27b6911.js";const p=o({name:"upload-list"}),d=o({...p,setup(a){return(m,_)=>(r(),e(t))}});export{d as default};
