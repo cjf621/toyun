@@ -1,1 +1,0 @@
-import{E as e}from"./to-15f62f4f.js";import{d as o,o as r,c as t}from"./to-dbebbab1.js";import"./to-4abe4e3d.js";import"./to-c27b6911.js";const a=o({name:"401"}),f=o({...a,setup(c){return(s,n)=>(r(),t(e,{code:401,desc:"认证失败，请重新登录！"}))}});export{f as default};
