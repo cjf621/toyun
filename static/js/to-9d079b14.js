@@ -1,0 +1,1 @@
+import{aE as c}from"./to-6daecd4d.js";function m(n){const{refs:t,setRefs:e}=c();return({exposed:f,onOpen:i})=>{const s=n||f.config.items[0].prop;s&&(f.config.items.find(o=>{o.prop==s&&o.component&&(o.component.ref=e(s))}),i(()=>{var o;(o=t[s])==null||o.focus()}))}}export{m as s};
